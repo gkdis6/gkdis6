@@ -11,4 +11,5 @@ contry korea = {
  challenge: "One day one commit"
 }
 ```
+[![gkdis6 GitHub stats](https://github-readme-stats.vercel.app/api?username=gkdis6)](https://github.com/gkdis6/github-readme-stats)
 
