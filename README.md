@@ -6,8 +6,7 @@
 
 ```
 contry korea = {
-  code: [Javascript, Kotlin, HTML, CSS, Java, Mysql, OracleDB, Git],
-  tools: [Nodejs, AndroidStudio, DBeaver, VSCode, Spring],
+  stack: [HTML, CSS, Javascript, Nodejs, Kotlin, Java, Mysql, OracleDB, Git, AndroidStudio, DBeaver, VSCode, SpringFramework]
  challenge: "One day one commit"
 }
 ```
