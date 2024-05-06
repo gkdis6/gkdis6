@@ -6,7 +6,7 @@
 
 ```
 country korea = {
-  stack: [Javascript, Nodejs, Kotlin, Java, Mysql, OracleDB, Postgres, SpringFramework, Docker]
+  stack: [Nodejs, Kotlin, Java, Mysql, OracleDB, Postgres, SpringFramework, Docker]
 }
 ```
 [![gkdis6 GitHub stats](https://github-readme-stats.vercel.app/api?username=gkdis6)](https://github.com/gkdis6/github-readme-stats)
