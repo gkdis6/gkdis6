@@ -1,7 +1,13 @@
 # 자기소개
 
-:smiley:
-
+다루는 언어는 중요하지 않다고 생각합니다. 하나를 깊게 이해한다면 다른 언어 또한 그 수준까지 가는게 어렵지 않다고 생각하고 필요에 따라 언어를 바꿀 수 있는 유연함이 필요하다고 생각합니다.
+전체적인 흐름, 이후 각각의 원리, 의도, 역할을 파악하려 합니다.
+원리, 의도, 역할을 파악한다면 필요에 따라 간소화하거나 대체하거나 구현할 수 있습니다.
+언어의 경계를 넘어 핵심 원리와 의도를 깊이 이해하는 여정이 늘 의미 있고 보람되길 바랍니다.
+----
+I believe the language you use isn’t important. Once you’ve mastered one deeply, reaching that same level in another shouldn’t be difficult, and you need the flexibility to switch languages as required.
+My goal is to first understand the overall flow, then each principle, intention, and role. By grasping those principles, intentions, and roles, you can simplify, substitute, or implement as needed.
+May your journey of deeply understanding core principles and intentions—transcending any language boundaries—always be meaningful and rewarding.
 
 # 💪Skills
 ### Languages
